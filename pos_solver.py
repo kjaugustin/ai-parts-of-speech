@@ -2,9 +2,9 @@
 # CS B551 Fall 2017, Assignment #3
 #
 # Your names and user ids:
-#1. Mandar Baxi msbaxi
-#2. Augustine Joseph Aujoseph
-#3. Milind Suryawanshi msuryawa
+#1. Mandar Baxi
+#2. Augustine Joseph
+#3. Milind Suryawanshi
 # (Based on skeleton code by D. Crandall)
 #
 #
